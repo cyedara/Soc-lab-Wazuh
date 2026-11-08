@@ -1,15 +1,28 @@
-# SOC Detection Test Record
+# Test Record: UCxx
 
-- Test ID:
-- Date and time (include timezone):
-- Tester:
-- Endpoint:
-- Use case:
-- Expected event:
-- Expected alert:
-- Actual result:
-- Wazuh alert ID and rule ID:
-- Evidence filename:
-- Pass or fail:
-- Reviewer:
-- Corrective action:
+| Field | Value |
+|---|---|
+| Date/time (WAT) | |
+| Tester | |
+| Endpoint | |
+| Authorised? | Yes |
+
+## Action performed
+(commands run)
+
+## Expected result
+
+## Source event
+- Log / Event ID:
+- Timestamp:
+
+## Wazuh result
+- Archived event found? Yes / No
+- Alert generated? Yes / No
+- Rule ID / level:
+
+## Evidence
+![description](../evidence/FILENAME.png)
+
+## Outcome
+Pass / Fail / Partial. Notes:
